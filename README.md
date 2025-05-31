@@ -62,29 +62,6 @@ This project explores global career patterns using salary survey data to uncover
 | Data Visualization    | Tableau               |
 | Statistical Analysis  | Python (optional)     |
 
----
-
-## 📁 Project Structure (Recommended)
-
-```
-Career-Trajectories-Global-Analysis/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── sql/
-│   └── analysis_queries.sql
-│
-├── dashboard/
-│   └── tableau_screenshots/
-│
-├── docs/
-│   └── project_presentation.pdf
-│
-├── dashboard_preview.png
-└── README.md
-```
 
 ---
 
